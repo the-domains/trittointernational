@@ -1,14 +1,26 @@
-layout_spectrum: 0.2329749
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4086021
 color:
   saturation: 0.0734767
-  lightness: 0.4677419
-  brandStrength: 0.1179429
-  rhythmicContrast: 0
+  brandStrength: 0.4713262
+  lightness: 0
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-typography_spectrum: 0.4086021
+    - '#151618'
+    - '#BDD05C'
+    - '#FFFFFF'
+    - '#26456E'
+    - '#4A79AC'
+  rhythmicContrast: 0
+layout_spectrum: 0.2329749
 name: TRITTOINTERNATIONAL
