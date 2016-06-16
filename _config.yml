@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4086021
 color:
-  saturation: 0.0734767
+  saturation: 0.8835126
   brandStrength: 0.4713262
-  lightness: 0
+  lightness: 0.9802867
   brandColors:
     - '#151618'
     - '#BDD05C'
     - '#FFFFFF'
     - '#26456E'
     - '#4A79AC'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.8440861
+typography_spectrum: 0.4086021
 layout_spectrum: 0.2329749
 name: TRITTOINTERNATIONAL
